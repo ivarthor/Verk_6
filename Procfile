@@ -1,0 +1,1 @@
+web: python verk_6.py
